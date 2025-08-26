@@ -21,10 +21,6 @@
 - **Tools:** Git, VS Code, Chrome DevTools  
 - **Other:** Responsive Design, UI/UX Basics  
 
----
-
-### 📊 **GitHub Stats**
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ka-iPy&show_icons=true&theme=radical)
 
 ---
 
