@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Ka-iPy
-- 👀 I’m interested in python
-- 🌱 I’m currently learning data analysis with python
-- 💞️ I’m looking to collaborate on anything...?
-- 📫 How to reach me well this is my github
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Kai is the fire ninja in ninjago
+# Hi there 👋, I'm Kai  
+
+💻 **Passionate about**:  
+- Building clean and responsive web designs  
+- Writing efficient code and solving problems  
+- Exploring the world of web development & beyond  
+
+🚀 **Currently Learning**:  
+- JavaScript & TypeScript  
+- Backend development & APIs  
+
+📚 **Tech Skills**:  
+- **Frontend:** HTML, CSS  
+- **Backend & Scripting:** Python, SQL  
+- **Learning:** JavaScript, TypeScript  
+
+---
+
+### 🔧 **Tech Stack**
+- **Languages:** HTML, CSS, Python, SQL, JavaScript  
+- **Tools:** Git, VS Code, Chrome DevTools  
+- **Other:** Responsive Design, UI/UX Basics  
+
+---
+
+### 📊 **GitHub Stats**
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ka-iPy&show_icons=true&theme=radical)
+
+---
+
+### 🌟 **Fun Fact**
+I'm a fantasy nerd and a geek who loves combining creativity with code.  
+
+---
 
 <!---
 Ka-iPy/Ka-iPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
