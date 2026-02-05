@@ -1,25 +1,19 @@
-# Hi there 👋, I'm Kai  
+# Hi there 👋, I'm Aireche khalil 
 
-💻 **Passionate about**:  
+💻 I am currently:  
 - Building clean and responsive web designs  
 - Writing efficient code and solving problems  
 - Exploring the world of web development & beyond  
 
 🚀 **Currently Learning**:  
-- JavaScript & TypeScript  
-- Backend development & APIs  
+- TypeScript  
+- Go  
 
-📚 **Tech Skills**:  
-- **Frontend:** HTML, CSS  
-- **Backend & Scripting:** Python, SQL  
-- **Learning:** JavaScript, TypeScript  
 
 ---
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
+<h1 align="center">My Tech Stack:</h1>
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -58,22 +52,11 @@
 </div>
 
 ###
-<canvas id="canvas" width="800" height="200"></canvas>
-
-<script type="module">
-  import { PacmanRenderer } from
-    'https://cdn.jsdelivr.net/npm/pacman-contribution-graph@latest/+esm';
-
-  const pr = new PacmanRenderer({
-    platform: 'github',
-    username: 'Ka-iPy',
-    canvas: document.getElementById('canvas'),
-    outputFormat: 'canvas',
-    gameTheme: 'github'
-  });
-
-  pr.start();
-</script>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ka-iPy/Ka-iPy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ka-iPy/Ka-iPy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ka-iPy/Ka-iPy/output/pacman-contribution-graph.svg">
+</picture>
 <!---
 Ka-iPy/Ka-iPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
