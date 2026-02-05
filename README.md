@@ -58,16 +58,21 @@
 </div>
 
 ###
+<canvas id="canvas" width="800" height="200"></canvas>
+
 <script type="module">
-import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
-const pr = new PacmanRenderer({
+  import { PacmanRenderer } from
+    'https://cdn.jsdelivr.net/npm/pacman-contribution-graph@latest/+esm';
+
+  const pr = new PacmanRenderer({
     platform: 'github',
     username: 'Ka-iPy',
     canvas: document.getElementById('canvas'),
     outputFormat: 'canvas',
     gameTheme: 'github'
-});
-pr.start();
+  });
+
+  pr.start();
 </script>
 <!---
 Ka-iPy/Ka-iPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
