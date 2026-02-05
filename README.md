@@ -52,7 +52,7 @@
 </div>
 
 ###
-![Pacman](https://raw.githubusercontent.com/Ka-iPy/<REPO>/output/pacman-contribution-graph.svg)
+![Pacman](https://raw.githubusercontent.com/Ka-iPy/Ka-iPy/github/workflows/pacman.yml/output/pacman-contribution-graph.svg)
 
 <!---
 Ka-iPy/Ka-iPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
