@@ -58,7 +58,17 @@
 </div>
 
 ###
-
+<script type="module">
+import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
+const pr = new PacmanRenderer({
+    platform: 'github',
+    username: 'yourusername',
+    canvas: document.getElementById('canvas'),
+    outputFormat: 'canvas',
+    gameTheme: 'github'
+});
+pr.start();
+</script>
 <!---
 Ka-iPy/Ka-iPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
