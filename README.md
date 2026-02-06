@@ -5,14 +5,11 @@
 - Writing efficient code and solving problems  
 - Exploring the world of web development & beyond  
 
-🚀 **Currently Learning**:  
-- TypeScript  
-- Go  
-
 
 ---
 
 <h1 align="center">My Tech Stack:</h1>
+
 ---
 
 <div align="center">
