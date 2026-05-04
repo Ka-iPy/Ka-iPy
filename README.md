@@ -60,7 +60,9 @@
 
 ![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ka-iPy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka-iPy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka-iPy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ka-iPy&theme=tokyonight&hide_border=true&background=00000000)
 
