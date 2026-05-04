@@ -55,7 +55,7 @@
 ---
 
 <div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ka-iPy&theme=tokyonight&hide_border=true&background=00000000)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ka-iPy&theme=tokyonight&hide_border=true&background=00000000)
 </div>
 
 ---
