@@ -52,21 +52,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ka-iPy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka-iPy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ka-iPy&theme=tokyonight&hide_border=true&background=00000000)
-
-</div>
 
 ---
 
