@@ -52,6 +52,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+---
+
+<div align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ka-iPy&theme=tokyonight&hide_border=true&background=00000000)
+</div>
 
 ---
 
